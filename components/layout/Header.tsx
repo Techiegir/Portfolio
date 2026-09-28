@@ -166,7 +166,7 @@ export const Header: React.FC = () => {
                 <ThemeIcon dark={dark} />
               </button>
               <Button
-                href={`https://wa.me/2349044539786?text=${encodeURIComponent("Hi, I came across your portfolio and I'd love to discuss an opportunity with you.")}`}
+                href={`https://wa.me/2349044549786?text=${encodeURIComponent("Hi, I came across your portfolio and I'd love to discuss an opportunity with you.")}`}
                 variant="primary"
                 size="md"
                 target="_blank"
@@ -273,7 +273,7 @@ export const Header: React.FC = () => {
         </button>
         <div className="mt-6 border-t border-neutral-200 pt-4">
           <Button
-            href={`https://wa.me/2349044539786?text=${encodeURIComponent("Hi, I came across your portfolio and I'd love to discuss an opportunity with you.")}`}
+            href={`https://wa.me/2349044549786?text=${encodeURIComponent("Hi, I came across your portfolio and I'd love to discuss an opportunity with you.")}`}
             variant="primary"
             fullWidth
             size="md"

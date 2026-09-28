@@ -93,7 +93,7 @@ export const CtaBand: React.FC = () => (
             Book a Call
           </Button>
           <Button
-            href={`https://wa.me/2349044539786?text=${encodeURIComponent("Hi, I came across your portfolio and I'd love to discuss an opportunity with you.")}`}
+            href={`https://wa.me/2349044549786?text=${encodeURIComponent("Hi, I came across your portfolio and I'd love to discuss an opportunity with you.")}`}
             variant="outline"
             size="lg"
             target="_blank"
